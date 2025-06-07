@@ -39,3 +39,11 @@ Winter is letting go
 Make a commit.
 4. Mark the commit with session1 tag and go to the storm branch.
 5. Rebase the storm branch so that it contains the last commit from the master.
+
+Hardcore:
+This task is carried out immediately after the previous one (Hurt Me Plenty).
+1. Make a push of your repository and make sure all commits are on github.
+2. Make a new repository on github.
+3. Change the remote repository into the local one so that fetch and push come to to the new repository that was created in the previous step.
+4. Make a push and make sure that the second repository on the github looks the same as the first.
+5. Return the remote settings to their initial state: pull and push of the first local repository lead to one remote repository on the github.
